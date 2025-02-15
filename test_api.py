@@ -3,7 +3,7 @@ import allure
 
 HEADERS = {
     "accept": "application/json",
-    "X-API-KEY": "" # подствьте сюда токен
+    "X-API-KEY": " " # подствьте сюда токен
 }
 
 
